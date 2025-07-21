@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="/assets/css/custom.css">
+
 # مستندات API
 
 ## GET /api/admin (Admin)
