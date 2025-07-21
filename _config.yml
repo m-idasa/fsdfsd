@@ -1,12 +1,6 @@
 title: مستندات API
 description: پروژه‌ای برای نمایش API به زبان فارسی
 markdown: kramdown
-sass:
-  style: compressed
 
-defaults:
-  - scope:
-      path: ""
-      type: "pages"
-    values:
-      layout: default
+remote_theme: sinaahmadi/just-the-docs-rtl
+color_scheme: dark
