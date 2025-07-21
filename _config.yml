@@ -1,6 +1,14 @@
+remote_theme: just-the-docs/just-the-docs
+
 title: مستندات API
-description: پروژه‌ای برای نمایش API به زبان فارسی
+description: نسخه‌ی راست‌چین شده برای زبان فارسی
+lang: fa
 markdown: kramdown
 
-remote_theme: sinaahmadi/just-the-docs-rtl
+plugins:
+  - jekyll-remote-theme
+
+just_the_docs:
+  css:
+    - /assets/css/custom.css
 color_scheme: dark
